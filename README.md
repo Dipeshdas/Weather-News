@@ -4,4 +4,4 @@
 
 2) Using RapidAPI(Weather API).
 
-3)Tech used : html,JavaScript,bootstrap
+3)Tech used : html,JavaScript,bootstrap.
